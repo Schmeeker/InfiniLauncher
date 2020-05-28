@@ -5,5 +5,7 @@ Supports Ocarina Codes.
 It can boot Wii and Gamecube games from the Disc slot. (GC not for WiiU)
 This app serves as an alternative to GeckoOS.
 
-DO NOT USE THIS YET. I'M STILL WORKING ON IT.
-=============================================
+InfiniLauncher
+==============
+Modifications by Schmeeker.
+FULL CREDIT GOES TO iGlitch! I just changed some pathnames.
